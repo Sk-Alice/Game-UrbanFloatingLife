@@ -1,0 +1,25 @@
+﻿  BlackMarket.cpp
+  EventController.cpp
+  GameController.cpp
+  GameCore.cpp
+E:\MyVsCppWordSpace\Example\UrbanFloatingLifeDemo\UrbanFloatingLifeDemo\GameCore.cpp(103,20): warning C4018: “<”: 有符号/无符号不匹配
+  GameGoods.cpp
+  GameInfoView.cpp
+E:\MyVsCppWordSpace\Example\UrbanFloatingLifeDemo\UrbanFloatingLifeDemo\GameInfoView.cpp(95,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\MyVsCppWordSpace\Example\UrbanFloatingLifeDemo\UrbanFloatingLifeDemo\GameInfoView.cpp(96,70): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\MyVsCppWordSpace\Example\UrbanFloatingLifeDemo\UrbanFloatingLifeDemo\GameInfoView.cpp(115,21): warning C4018: “<”: 有符号/无符号不匹配
+  GameMainView.cpp
+  GamePlace.cpp
+  GameRole.cpp
+  GameWorld.cpp
+  Message.cpp
+  RandomUtil.cpp
+  SoundController.cpp
+  Station.cpp
+  StationView.cpp
+  UrbanFloatingLifeDemo.cpp
+  Viewer.cpp
+E:\MyVsCppWordSpace\Example\UrbanFloatingLifeDemo\UrbanFloatingLifeDemo\Viewer.cpp(147,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+StationView.obj : error LNK2019: 无法解析的外部符号 "public: static class MarketView * __cdecl MarketView::create(class BlackMarket *)" (?create@MarketView@@SAPAV1@PAVBlackMarket@@@Z)，函数 "private: void __thiscall StationView::showStationNet(void)" (?showStationNet@StationView@@AAEXXZ) 中引用了该符号
+E:\MyVsCppWordSpace\Example\UrbanFloatingLifeDemo\Debug\UrbanFloatingLifeDemo.exe : fatal error LNK1120: 1 个无法解析的外部命令
